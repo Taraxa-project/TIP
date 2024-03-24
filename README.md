@@ -16,3 +16,5 @@ This repository stores Taraxa Improvement Proposals that go up for governance vo
 - [Voting status: PASSED](https://vote.taraxa.io/#/proposal/0xdedf6d57c44363b754ba5fd767252886f677a1033a2a047d040d8b52cfd0e61f)
 - [Dev status: grant application live](https://taraxa.io/grant)
 <br><br><br>
+
+# TIP-4 - TEST
